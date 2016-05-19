@@ -1,0 +1,66 @@
+html {
+  background: #002926;
+}
+
+.container {
+  margin: 20px auto;
+  width: 80%;
+  height: 650px;
+  padding: 0px 20px 20px 20px;
+
+  border-radius: 5px;
+  background-color: #DEFFF1;
+}
+
+form input{
+  border-radius: 3px;
+}
+
+.tweet {
+  padding: 13px;
+  color: #002926;
+  font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+
+h1 {
+  font-family: 'Amaranth', sans-serif;
+  color: #DEFFF1;
+  margin-left: 150px;
+}
+
+a {
+  color: #048596;
+  text-decoration: none;
+}
+
+form {
+  /*float:right;*/
+  /*margin-right: 150px;*/
+  margin: auto;
+  width: 300px;
+  font-family: "Helvetica Neue",Helvetica,Arial,sans-serif
+}
+
+#button {
+  color: #DEFFF1;
+  width: 40%;
+  margin-top: 20px;
+  margin-left: 67px;
+  padding: 15px;
+  background-color: #002926;
+  border: 1.5px solid #DEFFF1;
+}
+
+#input-text {
+  margin-top: 15px;
+  font-color: #DEFFF1;
+  width: 85%;
+}
+
+#label {
+  margin: auto;
+  padding-bottom: 15px;
+  font-family: 'Amaranth', sans-serif;
+  color: #DEFFF1;
+  font-size: 1.3em;
+}
